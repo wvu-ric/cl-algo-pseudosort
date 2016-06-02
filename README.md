@@ -17,3 +17,5 @@ Algorithms are fundamental to coding and sorting is fundamental to algorithms. I
 4. Repeat this step until the first element, A[0] is the smallest
 
 5. Start back at the end, A[n] and repeat until the entire array is sorted
+
+**Hint:** If you're having trouble visualizing how this algorithm works, just imagine the elements *bubbling* up from the bottom until they're all in order.
