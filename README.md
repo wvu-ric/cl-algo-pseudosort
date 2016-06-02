@@ -1,6 +1,6 @@
 #Pseudocode a Sorting Algorithm
 
-Algorithms are fundamental to coding and sorting is fundamental to algorithms. In this exercise, we're going to implement a simple sorting algorithm using pseudocode. With pseudocode, there is no such thing as invalid syntax. But remember! Every line of your "code" should be able to translate into a single, direct programming statement.
+Algorithms are fundamental to coding and sorting is fundamental to algorithms. In this exercise, we're going to implement a simple sorting algorithm using pseudocode. With pseudocode, there is no such thing as invalid syntax. But remember! Every line of your "code" should translate into a single, direct programming statement.
 
 **Input:** An unsorted array of n numbers
 
